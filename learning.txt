@@ -7,6 +7,16 @@ Adresses Ipv4 (4 octets) :
 Adresses Ipv6 (16 octets) :
 16 octets * 8 bits = 128 bits
 
+
+--> Qu’est-ce qu’un masque de sous-réseau
+
+Les adresses IPv4 sont composées de deux parties : le sous-réseau et l'hôte.
+Un sous-réseau est une subdivision logique d'un réseau de taille plus importante. Le masque de sous-réseau permet de distinguer la partie de l'adresse commune à tous les appareils du sous-réseau et celle qui varie d'un appareil à l'autre.
+
+
+--> Qu’est-ce que le sous-réseau d’une IP avec un masque de sous-réseau
+
+
 --> Quelle est la différence entre une IP privée et une IP publique ?
 
 Une adresse IP publique permet de communiquer avec les autres reseaux, elle est unique au monde.
@@ -15,6 +25,7 @@ Une adresse IP privée permet de communiquer au sein d'un même reseau local.
 -	Les adresses privées de la classe B : 172.16.0.0 à 172.31.255.255 (comprend 65535 adresses)
 –	Les adresses privées de la classe C : 192.168.1.0 à 192.168.255.255 (comprend 256 adresses)
 -	Les adresses publiques sont toutes les autres.
+
 
 --> Quelles sont les différentes classes d’IP ?
 
