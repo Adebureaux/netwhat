@@ -55,6 +55,8 @@ IP Addres is composed of:  **[ network  ]  [ host  ]**
 ### 2. What is a Netmask?
 A Netmask is a 32-bit **"mask"** used to divide an IP address into subnets and specify the network's available hosts.
 
+![alt text](imgs/masks_list.png)
+
 ### 3. What is the subnet of an IP with Netmask
 It is called a subnet mask because it is used to identify network address of an IP address by perfoming a bitwise AND operation on the netmask.
 ```bash
