@@ -44,15 +44,18 @@ Public Ip  can to be static or dynamic.
  - A static address is unchanged and is often for hosting websites, server.
  - A dynamic address are chasen from a "pool" of available addresses and will be changed each time user connects.
 
+
 ### 7. What is a class of IP addresses?
 
 IP address in class A, class B and class C.
 
-| Class	|  Starting IP address	| Ending Ip Address|  # of hots | 
---------|-----------------------|------------------|------------| 
-|  A 	| 10.0.0.0		| 10.255.255.255   | 16,777,216 |
-|  B 	| 172.16.0.0		| 172.31.255.255   | 1,048,576  |
-|  C 	| 192.168.0.0		| 192.168.255.255  | 65,536     |
+| Class	|  Starting IP address	| Ending Ip Address|
+--------|-----------------------|------------------|
+|  A 	| 0.0.0.0		| 126.255.255.255   |
+|  B 	| 128.16.0.0		| 191.255.255.255   |
+|  C 	| 192.0.0.0		| 223.255.255.255  |
+|  D 	| 224.0.0.0		| 239.255.255.255   |
+|  E 	| 240.0.0.0		| 255.255.255.255   |
 
 ### 8. What is TCP?
 
@@ -71,10 +74,10 @@ Main protocols of the internet protol suite.
 - Faster, bacause it lacks any extra features.
 - Requieres less computer resources.
 - Examples of programs and services that use UPD:
-	- DNS
-	- IP telephony
-	- DHCP
-	- Many computer games
+	-DNS
+	-IP telephony
+	-DHCP
+	-Many computer games
 
 **Why we use UDP?**
 
