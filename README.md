@@ -66,7 +66,7 @@ Public Ip  can to be static or dynamic.
 TCP (Transmision Control Protocol)
 Main protocols of the internet protol suite.
 
-- Keeps track of lost packages, makes sure that lost packages are re-sent
+- Keeps track of lost packages, makes sure that lost packages are re-sent.
 - Addes sequesce numbers to packets and reorders any packets that arrive in thenworng order.
 - Slower, because of all added additional functionality.
 - Requieres more computer resources, because the OS needs to keep track of ongoing communication sessions and manage them on a much deeper level.
