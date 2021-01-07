@@ -44,10 +44,14 @@ Public Ip  can to be static or dynamic.
  - A static address is unchanged and is often for hosting websites, server.
  - A dynamic address are chasen from a "pool" of available addresses and will be changed each time user connects.
 
+| Class	|  Starting IP address	| Ending Ip Address|  # of hots | 
+--------|-----------------------|------------------|------------| 
+|  A 	| 10.0.0.0		| 10.255.255.255   | 16,777,216 |
+|  B 	| 172.16.0.0		| 172.31.255.255   | 1,048,576  |
+|  C 	| 192.168.0.0		| 192.168.255.255  | 65,536     |
+
 
 ### 7. What is a class of IP addresses?
-
-IP address in class A, class B and class C.
 
 | Class	|  Starting IP address	| Ending Ip Address|
 --------|-----------------------|------------------|
