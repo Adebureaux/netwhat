@@ -64,7 +64,7 @@ Public Ip  can to be static or dynamic.
 ### 8. What is TCP?
 
 TCP (Transmision Control Protocol)
-Main protocols of the internet protol suite.
+Main protocols of the internet protocol suite.
 
 - Keeps track of lost packages, makes sure that lost packages are re-sent.
 - Addes sequesce numbers to packets and reorders any packets that arrive in thenworng order.
