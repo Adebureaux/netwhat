@@ -131,7 +131,7 @@ The header information includes:
 
 ### 16. What is a default gateway for routing?
 
- It allows devices within one network to send information to devises within another network. If you are requestiong a certain web page, the trafic is first sent to your default gateay before leaving the local network to reach its indended destination.
+ It allows devices within one network to send information to devises within another network. If you are requestiong a certain web page, the trafic is first sent to your default gateway before leaving the local network to reach its indended destination.
 
 ### 17. What is a port from an IP point of view and what is it used for when connecting?
 
