@@ -126,7 +126,7 @@ The **Domain Network System (DNS) protocol** helps internet users and network de
 
 The header information includes:
 - The IP addresses of the source and destination nodes.
-- Packet numbers that help reassemble the packets in the correct order whe  the packets reach the destination. 
+- Packet numbers that help reassemble the packets in the correct order when the packets reach the destination. 
 - Other useful technical information.
 
 ### 16. What is a default gateway for routing?
