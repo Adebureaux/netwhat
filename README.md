@@ -93,7 +93,7 @@ In the seven-layer OSI model of computer network, the network layer is layer 3. 
 
 ### 11. What is the OSI model?
 
-The Open System Interconnection (OSI). It has been developed by ISO - 'International Organization of Standardization'. It is a 7 layer architecture with each layer having specific functionality to perform. All tese 7 layers work collaboratively to transmit the data fr4om one person to another across the globe.
+The Open System Interconnection (OSI). It has been developed by ISO - 'International Organization of Standardization'. It is a 7 layer architecture with each layer having specific functionality to perform. All tese 7 layers work collaboratively to transmit the data from one person to another across the globe.
 
  | Layer		| Kind	         |
  |----------------------|----------------|
