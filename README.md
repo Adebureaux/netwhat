@@ -137,3 +137,36 @@ The header information includes:
 
 In computer networking, a port is a communication endpoint. At the software level, within an operating system, a port is a logical construct that identifies a specific process or a type of network service. 
  Ports are identified for each protocol and address combination by 16-bit unsigned numbers, commonly known as the port number. The most common protocols that use port numbers are the Transmission Control Protocol (TCP) and the User Datagram Protocol (UDP).
+
+
+
+Notions :
+
+TCP est un protocole oriente datagramme
+TCP ne prend pas en charge la diffusion
+TCP fournit des mecanismes de verification d'erreur etendus. C'est parce qu'il fournit le controle de flux et l'acquittement des donnees
+Le sequencage des donnees est une caracteristique de TCP (cela signifie que les paquets arrivent dans l'ordre dans le destinataire)
+TCP est fiable car il garantit la livraison des donnees au routeur de la destination
+TCP est comparativement plus lent que UDP
+
+TCP est un protocole oriente connexion
+TCP ne prend pas en charge la diffusion
+TCP fournit des mecanismes de verification d'erreur etendus. C'est parce qu'il fournit le controle de flux et l'acquittement des donees
+Le sequencage des donnees est une caracteristique de TCP (cela signifie que les paquets arrivent dans l'ordre dans le destinataire)
+La livraison des donnees a la destination ne peut pas etre garantie en TCP
+TCP est fiable car il garantit la livraison des donnees au routeur de la destination
+
+UDP est plus rapide, plus simple et plus efficace que TCP
+UDP ne dispose que du mecanisme de controle d'erreur de base
+UDP est un protocole oriente datagramme
+UDP ne prend pas en charge la diffusion
+UDP est plus rapide, plus simple et plus efficace que TCP
+UDP fournit des mecanismes de verification d'erreur etendus. C'est parce qu'il fournit le controle de flux et l'acquittement des donees
+UDP est un protocole oriente datagramme
+UDP prend en charge la diffusion
+
+DHCP utilise le protocole ... au niveau de la couche transport
+DHCP automatise la configuration IP, y compris l'adresse IP, le masque de sous-reseau, la passerelle par defaut et les informations DNS
+DHCP prend en charge les adresses IPv4 et IPv6
+
+Modele OSI : Application - Presentation - Session - Transport - Reseau - Liaison - Physique
