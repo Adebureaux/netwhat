@@ -108,7 +108,7 @@ The Open System Interconnection (OSI). It has been developed by ISO - 'Internati
 
 ### 12. What is a DHCP server and the DHCP protocol
  
- DHCP server: DHCP (Dynamic Host Confivguration Protocol), is a protocol that provides quick, automatic, and central management for the distribution of IP addresses within a network. DHCP is also used to configure  the subnet mask, default gateway and DNS server information on the device.
+ DHCP server: DHCP (Dynamic Host Configuration Protocol), is a protocol that provides quick, automatic, and central management for the distribution of IP addresses within a network. DHCP is also used to configure  the subnet mask, default gateway and DNS server information on the device.
 
 ### 13. What is a DNS server and the DNS protocol?
 
